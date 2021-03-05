@@ -1,25 +1,12 @@
-# development_format
+# development_formatについて
 
-This PJ is described about development format for github.
+###  概要
 
-## Purpose
+###  目的
 
+### 用途
 
+###  対象者
 
-## Folder structure
-
-This PJ's folder structures are as follows.
-
-#### checklist
-
-These are format for test checklist.
-There are following checklists.
-
-#### format
-
-- PR_format.md
-  - This is a format of pull request
-- issue_format.md
-  - This is a format of issue ticket
-
+### 使い方
 
