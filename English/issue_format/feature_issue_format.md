@@ -10,6 +10,7 @@ Write down issue's overview
 
 - [ ] Write down implementation contents
 
+
 ## Note
 
 Write up announcement for Assignees
